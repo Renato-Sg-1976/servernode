@@ -1,0 +1,23 @@
+{
+  "name": "servernode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "copy": "move dev.js.bk dev.js",
+    "serve": "npm start",
+    "dev": "node dev.js",    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Renato-Sg-1976/servernode.git"
+  },
+  "author": "Renato-Sg-1976",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Renato-Sg-1976/servernode/issues"
+  },
+  "homepage": "https://github.com/Renato-Sg-1976/servernode#readme"
+}
