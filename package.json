@@ -1,5 +1,3 @@
-// 20190416124053
-// https://raw.githubusercontent.com/webnicola/servernode/master/package.json
 
 {
   "name": "servernode",
@@ -15,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/webnicola/servernode.git"
+    "url": "git+https://github.com/Renato-Sg-1976/servernode.git"
   },
   "keywords": [
     
@@ -23,7 +21,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/webnicola/servernode/issues"
+    "url": "https://github.com/Renato-Sg-1976/servernode/issues"
   },
-  "homepage": "https://github.com/webnicola/servernode#readme"
+  "homepage": "https://github.com/Renato-Sg-1976/servernode#readme"
 }
